@@ -1,2 +1,3 @@
-# Freecodecamp-MongoDB
-This is a repo for MongoDB lessons from the FCC Curriculum
+# MongoDB and Mongoose Challenges
+
+This is the boilerplate for the MongoDB and Mongoose lessons. Instructions for completing these lessons start at https://www.freecodecamp.org/learn/apis-and-microservices/mongodb-and-mongoose/
