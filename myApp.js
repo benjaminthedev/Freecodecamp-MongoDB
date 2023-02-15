@@ -1,7 +1,12 @@
 require('dotenv').config();
 
+const mongoose = require('mongoose');
 
-let Person;
+
+
+const Person = mongoose.model("Person", personSchema);
+// let Person;
+
 
 const createAndSavePerson = (done) => {
   done(null /*, data*/);
